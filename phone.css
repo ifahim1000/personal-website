@@ -1,0 +1,17 @@
+#home{
+    height: 840px;
+}
+
+.headings{
+    font-size: 2rem;
+}
+#pic img{
+    width: 300px;
+    height: 275px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+.box p{
+    overflow: hidden;
+}
