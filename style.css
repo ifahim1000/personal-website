@@ -16,6 +16,7 @@ html{
     background : black;
     position: sticky;
     top: 0;
+    z-index: 1;
 }
 .navbar ul{
     display: flex;
@@ -74,8 +75,13 @@ html{
 }
 .main .headings{
     text-align: left;
+}
+.ifahim{
+    color: yellow;
+    color: rgb(0, 251, 255);
 
 }
+
 #about{
     display: flex;
     flex-direction: column;
